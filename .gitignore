@@ -1,0 +1,15 @@
+
+###> symfony/framework-bundle ###
+/my_project_name/.env.local
+/my_project_name/.env.local.php
+/my_project_name/.env.*.local
+/my_project_name/public/bundles/
+/my_project_name/var/
+/my_project_name/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/web-server-bundle ###
+/my_project_name/.web-server-pid
+###< symfony/web-server-bundle ###
+
+.idea/
